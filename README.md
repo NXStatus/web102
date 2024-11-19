@@ -2,7 +2,7 @@
 
 Submitted by: Nancy
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **4** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/video-walkthrough-mdQLTXk' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/gallery/video-walkthrough-mdQLTXk
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
